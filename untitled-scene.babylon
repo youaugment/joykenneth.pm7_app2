@@ -1,0 +1,10 @@
+{"producer":{"name":"Blender","version":"2.74 (sub 0)","exporter_version":"4.6.1","file":"untitled_scene.babylon"},
+"autoClear":true,"clearColor":[0.2,0.2,0.2],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
+"materials":[],
+"multiMaterials":[],
+"skeletons":[],
+"meshes":[{"name":"SketchUp","id":"SketchUp","position":[0,0,0],"rotationQuaternion":[-0.7071,0,0,-0.7071],"scaling":[0.0254,0.0254,0.0254],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false}],
+"cameras":[{"name":"skp_camera_Last_Saved_SketchUp_View","id":"skp_camera_Last_Saved_SketchUp_View","position":[-181.521,375.152,-152.205],"rotation":[1.8069,-3.1416,0.7095],"fov":0.6109,"minZ":0.0254,"maxZ":25.4,"speed":1,"inertia":0.9,"checkCollisions":false,"applyGravity":false,"ellipsoid":[0.2,0.9,0.2],"cameraRigMode":0,"interaxial_distance":0.0637,"type":"FreeCamera","parentId":"SketchUp"}],"activeCamera":"skp_camera_Last_Saved_SketchUp_View",
+"lights":[],
+"shadowGenerators":[]
+}
